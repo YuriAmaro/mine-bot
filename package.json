@@ -1,0 +1,17 @@
+{
+  "name": "botmina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "botMina.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-spinners": "^2.9.0",
+    "moment-timezone": "^0.5.43",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
